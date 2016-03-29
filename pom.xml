@@ -5,4 +5,12 @@
     <artifactId>springMaven</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
+    
+    <dependencies>
+        <dependency>
+            <gourid>com.sum.jersey</gourid>
+            <version>1.8</version>
+            <artifact-id>jersey-server</artifact-id>
+        </dependency>
+    </dependencies>
 </project>
